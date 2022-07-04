@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\bin\Debug\OrtalamaHesaplamaSEÇİM.exe.config
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\bin\Debug\OrtalamaHesaplamaSEÇİM.exe
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\bin\Debug\OrtalamaHesaplamaSEÇİM.pdb
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\obj\Debug\OrtalamaHesaplamaSEÇİM.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\obj\Debug\OrtalamaHesaplamaSEÇİM.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\obj\Debug\OrtalamaHesaplamaSEÇİM.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\obj\Debug\OrtalamaHesaplamaSEÇİM.exe
+C:\Users\hp\Desktop\yeni denemeler\OrtalamaHesaplamaSEÇİM\obj\Debug\OrtalamaHesaplamaSEÇİM.pdb
